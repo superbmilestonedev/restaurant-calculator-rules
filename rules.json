@@ -18,7 +18,7 @@
         ],
         "flag": "🇦🇪",
         "name": "United Arab Emirates",
-        "summary": "VAT {taxRate} · tips · Dubai hotel charges",
+        "summary": "VAT {taxRate} · tips · end-of-service pay",
         "taxName": "VAT",
         "taxShortName": "VAT",
         "usesUSCustomaryUnits": false,
@@ -12103,8 +12103,8 @@
     }
   },
   "disclaimer": "Estimates only; not tax or legal advice. Every value lists its official source, effective date and last-verified date.",
-  "publishedAt": "2026-10-01T01:05:00Z",
-  "rulesVersion": "2026.10.01.2",
+  "publishedAt": "2026-11-05T12:00:00Z",
+  "rulesVersion": "2026.11.05",
   "schemaVersion": 1,
   "validation": {
     "maxRelativeChange": {
