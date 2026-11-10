@@ -38,7 +38,7 @@
             "mode": "none",
             "step": "0"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.apps": {
           "effective": "2026-09-30",
@@ -56,7 +56,7 @@
             "noonFood",
             "keeta"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.careem": {
           "effective": "2026-09-30",
@@ -96,7 +96,7 @@
             "rateStatus": "notPublished",
             "sourceName": "Careem restaurant partner page"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.deliveroo": {
           "effective": "2026-09-30",
@@ -136,7 +136,7 @@
             "rateStatus": "notPublished",
             "sourceName": "Deliveroo UAE partner page"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.keeta": {
           "effective": "2026-09-30",
@@ -176,7 +176,7 @@
             "rateStatus": "notPublished",
             "sourceName": "Zawya and Gulf News"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.noonFood": {
           "effective": "2026-09-30",
@@ -220,7 +220,7 @@
             "rateStatus": "notPublished",
             "sourceName": "Zawya and Gulf News (April 2026)"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.talabat": {
           "effective": "2026-09-30",
@@ -260,7 +260,7 @@
             "rateStatus": "notPublished",
             "sourceName": "talabat IPO prospectus (2024)"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.taxes": {
           "effective": "2026-09-30",
@@ -279,7 +279,7 @@
             "feeTaxName": "VAT",
             "feeTaxPercent": "5"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "denominations": {
           "effective": "2026-01-01",
@@ -328,7 +328,7 @@
             "municipalityFeePercent": "7",
             "serviceChargePercent": "10"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "electricityRate": {
           "effective": "2026-09-01",
@@ -350,6 +350,10 @@
             {
               "title": "UAE Government portal: end-of-service benefits (Federal Decree-Law No. 33 of 2021, Art. 51)",
               "url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/end-of-service-benefits-for-employees-in-the-private-sector"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/end-of-service-benefits-for-employees-in-the-private-sector"
             }
           ],
           "unit": "table",
@@ -361,7 +365,7 @@
             "laterDaysPerYear": "30",
             "minimumYears": "1"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "opening.permits": {
           "effective": "2026-09-30",
@@ -378,6 +382,10 @@
             {
               "title": "Federal Tax Authority: VAT registration",
               "url": "https://tax.gov.ae/en/services/vat.registration.aspx"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://u.ae/en/information-and-services/business/Doing-business/doing-business-on-the-mainland/steps-to-start-a-business-on-the-mainland"
             }
           ],
           "unit": "table",
@@ -410,7 +418,7 @@
             ],
             "note": "For Dubai mainland; free zones have their own authorities. VAT registration with the FTA is free."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "overtime": {
           "effective": "2022-02-02",
@@ -419,6 +427,10 @@
             {
               "title": "UAE Government portal: working hours and overtime (Federal Decree-Law No. 33 of 2021, Art. 19)",
               "url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/working-hours"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/working-hours"
             }
           ],
           "unit": "table",
@@ -431,7 +443,7 @@
             },
             "weeklyHours": "48"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.mamo": {
           "effective": "2026-09-30",
@@ -453,7 +465,7 @@
             },
             "tax": "excluded"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.mamoPremium": {
           "effective": "2026-09-30",
@@ -476,7 +488,7 @@
             },
             "tax": "excluded"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.networkIntl": {
           "effective": "2026-09-30",
@@ -493,7 +505,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.stripe": {
           "effective": "2026-09-30",
@@ -515,7 +527,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.telrEntry": {
           "effective": "2026-09-30",
@@ -538,7 +550,7 @@
             },
             "tax": "excluded"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.telrMedium": {
           "effective": "2026-09-30",
@@ -560,7 +572,7 @@
             },
             "tax": "excluded"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.telrSmall": {
           "effective": "2026-09-30",
@@ -583,7 +595,7 @@
             },
             "tax": "excluded"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.ziina": {
           "effective": "2026-06-29",
@@ -605,7 +617,7 @@
             },
             "tax": "included"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.providers": {
           "effective": "2026-09-30",
@@ -651,7 +663,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.surcharge": {
           "effective": "2023-07-03",
@@ -667,7 +679,7 @@
             "status": "banned",
             "summary": "Adding a fee for card payments is prohibited (Cabinet Decision 66 of 2023)."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.geidea": {
           "effective": "2026-09-30",
@@ -684,7 +696,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.magnati": {
           "effective": "2026-09-30",
@@ -718,7 +730,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.ziina": {
           "effective": "2026-06-29",
@@ -740,7 +752,7 @@
             },
             "tax": "included"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "pricesIncludeTax": {
           "effective": "2018-01-01",
@@ -748,11 +760,15 @@
             {
               "title": "UAE Federal Tax Authority: VAT",
               "url": "https://tax.gov.ae/en/taxes/vat.aspx"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://tax.gov.ae//Datafolder/Files/Legislation/2026/Law-No-8-of-2017-and-its-amendments--09-2026.pdf"
             }
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.ejari": {
           "effective": "2026-09-30",
@@ -768,7 +784,7 @@
             "restApp": "177.75",
             "trusteeCentre": "220"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.taxOnRent": {
           "effective": "2018-01-01",
@@ -777,11 +793,15 @@
             {
               "title": "UAE VAT law and Executive Regulation, Art. 43 (Federal Tax Authority)",
               "url": "https://tax.gov.ae//Datafolder/Files/Legislation/2026/Law-No-8-of-2017-and-its-amendments--09-2026.pdf"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://mof.gov.ae/en/public-finance/tax/value-added-tax-vat/"
             }
           ],
           "unit": "percent",
           "value": "5",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "serviceChargeDefault": {
           "effective": "2026-01-01",
@@ -793,7 +813,7 @@
           ],
           "unit": "percent",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxOnServiceCharge": {
           "effective": "2018-01-01",
@@ -801,11 +821,15 @@
             {
               "title": "UAE Federal Tax Authority: VAT",
               "url": "https://tax.gov.ae/en/taxes/vat.aspx"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://tax.gov.ae/-/media/Files/EN/PDF/Guides/Taxable-Person-Guide-June-2018.pdf"
             }
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRate": {
           "effective": "2018-01-01",
@@ -814,11 +838,15 @@
             {
               "title": "UAE Federal Tax Authority: VAT",
               "url": "https://tax.gov.ae/en/taxes/vat.aspx"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://mof.gov.ae/en/public-finance/tax/value-added-tax-vat/"
             }
           ],
           "unit": "percent",
           "value": "5",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRegistrationThreshold": {
           "effective": "2018-01-01",
@@ -827,13 +855,17 @@
             {
               "title": "UAE Federal Tax Authority: VAT",
               "url": "https://tax.gov.ae/en/taxes/vat.aspx"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://tax.gov.ae/en/services/vat.registration.aspx"
             }
           ],
           "unit": "currency",
           "value": {
             "amount": "375000"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipDefault": {
           "effective": "2026-01-01",
@@ -844,7 +876,7 @@
           ],
           "unit": "percent",
           "value": "10",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipOnPreTax": {
           "effective": "2026-01-01",
@@ -856,7 +888,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipPresets": {
           "effective": "2026-01-01",
@@ -873,7 +905,7 @@
             "10",
             "15"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         }
       }
     },
@@ -921,7 +953,7 @@
             "earlyMorningPerHour": "4.42",
             "lateNightPerHour": "2.95"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "award.penalties": {
           "effective": "2026-07-01",
@@ -956,7 +988,7 @@
               "fullTimeMultiplier": "1"
             }
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "award.rates": {
           "effective": "2026-07-01",
@@ -981,7 +1013,7 @@
             "l5": "31.30",
             "l6": "32.13"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "bar.kegs": {
           "effective": "2026-09-30",
@@ -1021,7 +1053,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "bar.measures": {
           "effective": "2026-09-30",
@@ -1080,6 +1112,10 @@
             {
               "title": "Reserve Bank of Australia: banknotes; Royal Australian Mint: coins",
               "url": "https://banknotes.rba.gov.au/"
+            },
+            {
+              "title": "ACCC: Rounding and EFTPOS transactions",
+              "url": "https://www.accc.gov.au/media-release/rounding-and-eftpos-transactions"
             }
           ],
           "unit": "table",
@@ -1106,7 +1142,7 @@
             "uberEats",
             "doorDash"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.doorDash": {
           "effective": "2026-09-30",
@@ -1183,7 +1219,7 @@
             "feeTaxName": "GST",
             "feeTaxPercent": "10"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.uberEats": {
           "effective": "2026-09-30",
@@ -1233,7 +1269,7 @@
             "rateStatus": "official",
             "sourceName": "Uber Eats Australia pricing page and merchant terms"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "denominations": {
           "effective": "2026-01-01",
@@ -1242,6 +1278,14 @@
             {
               "title": "Reserve Bank of Australia: banknotes; Royal Australian Mint: coins",
               "url": "https://banknotes.rba.gov.au/"
+            },
+            {
+              "title": "RBA: Australia's banknotes",
+              "url": "https://banknotes.rba.gov.au/australias-banknotes/"
+            },
+            {
+              "title": "Royal Australian Mint: circulating coins",
+              "url": "https://www.ramint.gov.au/collect/national-coin-collection/circulating-coins"
             }
           ],
           "unit": "currency",
@@ -1262,7 +1306,7 @@
               "5"
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "electricityRate": {
           "effective": "2026-09-01",
@@ -1336,7 +1380,7 @@
             ],
             "note": "Food business rules and fees vary by state and council."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "overtime": {
           "effective": "2026-07-01",
@@ -1361,7 +1405,7 @@
             },
             "weeklyHours": "38"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.square": {
           "effective": "2026-09-30",
@@ -1382,7 +1426,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.stripe": [
           {
@@ -1409,7 +1453,7 @@
               },
               "tax": "included"
             },
-            "verified": "2026-09-30"
+            "verified": "2026-11-01"
           },
           {
             "effective": "2026-10-01",
@@ -1435,7 +1479,7 @@
               },
               "tax": "included"
             },
-            "verified": "2026-09-30"
+            "verified": "2026-11-01"
           }
         ],
         "payments.providers": {
@@ -1476,7 +1520,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.surcharge": [
           {
@@ -1497,7 +1541,7 @@
               "status": "limited",
               "summary": "Card surcharges can't be more than your cost of taking that card. From 1 October 2026, Visa, Mastercard and eftpos cards can't be surcharged."
             },
-            "verified": "2026-09-30"
+            "verified": "2026-11-01"
           },
           {
             "effective": "2026-10-01",
@@ -1517,7 +1561,7 @@
               "status": "banned",
               "summary": "Since 1 October 2026, Visa, Mastercard, eftpos and American Express cards can't be surcharged; weekend and public holiday surcharges are still allowed."
             },
-            "verified": "2026-09-30"
+            "verified": "2026-11-01"
           }
         ],
         "payments.terminal.square": {
@@ -1542,7 +1586,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.stripe": [
           {
@@ -1569,7 +1613,7 @@
               },
               "tax": "included"
             },
-            "verified": "2026-09-30"
+            "verified": "2026-11-01"
           },
           {
             "effective": "2026-10-01",
@@ -1595,7 +1639,7 @@
               },
               "tax": "included"
             },
-            "verified": "2026-09-30"
+            "verified": "2026-11-01"
           }
         ],
         "payments.terminal.tyro": {
@@ -1613,7 +1657,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.zeller": {
           "effective": "2026-09-30",
@@ -1637,7 +1681,7 @@
             },
             "tax": "included"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "pricesIncludeTax": {
           "effective": "2000-07-01",
@@ -1645,11 +1689,15 @@
             {
               "title": "Australian Taxation Office: GST",
               "url": "https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst"
+            },
+            {
+              "title": "business.gov.au: Register for GST",
+              "url": "https://business.gov.au/registrations/register-for-taxes/register-for-goods-and-services-tax-gst"
             }
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.taxOnRent": {
           "effective": "2000-07-01",
@@ -1670,7 +1718,7 @@
           ],
           "unit": "percent",
           "value": "10",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "serviceChargeDefault": {
           "effective": "2026-01-01",
@@ -1681,7 +1729,7 @@
           ],
           "unit": "percent",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxOnServiceCharge": {
           "effective": "2000-07-01",
@@ -1689,6 +1737,10 @@
             {
               "title": "Australian Taxation Office: GST",
               "url": "https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst"
+            },
+            {
+              "title": "ATO: Restaurant tips (GST Industry Issues)",
+              "url": "https://www.ato.gov.au/law/view/document?docid=GII%2FGSTIITH9%2FNAT%2FATO%2F00001"
             }
           ],
           "unit": "boolean",
@@ -1702,11 +1754,15 @@
             {
               "title": "Australian Taxation Office: GST",
               "url": "https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst"
+            },
+            {
+              "title": "business.gov.au: Register for GST",
+              "url": "https://business.gov.au/registrations/register-for-taxes/register-for-goods-and-services-tax-gst"
             }
           ],
           "unit": "percent",
           "value": "10",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRegistrationThreshold": {
           "effective": "2007-07-01",
@@ -1715,13 +1771,17 @@
             {
               "title": "Australian Taxation Office: registering for GST",
               "url": "https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/registering-for-gst"
+            },
+            {
+              "title": "business.gov.au: Register for GST",
+              "url": "https://business.gov.au/registrations/register-for-taxes/register-for-goods-and-services-tax-gst"
             }
           ],
           "unit": "currency",
           "value": {
             "amount": "75000"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipDefault": {
           "effective": "2026-01-01",
@@ -1732,7 +1792,7 @@
           ],
           "unit": "percent",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipOnPreTax": {
           "effective": "2026-01-01",
@@ -1744,7 +1804,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipPresets": {
           "effective": "2026-01-01",
@@ -1761,7 +1821,7 @@
             "10",
             "15"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "weekendSurcharge.presets": {
           "effective": "2026-01-01",
@@ -1867,7 +1927,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "bar.measures": {
           "effective": "2026-09-30",
@@ -1923,7 +1983,7 @@
             "spiritDefault": "29",
             "unit": "ml"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "cardFees.defaults": {
           "effective": "2026-01-01",
@@ -1938,7 +1998,7 @@
             "perTransaction": "0.10",
             "processorRatePercent": "2.6"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "cardSurcharge": {
           "effective": "2022-10-06",
@@ -1951,6 +2011,10 @@
             {
               "title": "Office de la protection du consommateur (Quebec): surcharges",
               "url": "https://www.opc.gouv.qc.ca/"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.canada.ca/en/financial-consumer-agency/services/merchants/credit-fees-merchant.html ; https://www.visa.ca/content/dam/VCOM/regional/na/canada/Support/Documents/surcharging-faq-businesses-en.pdf"
             }
           ],
           "unit": "table",
@@ -1960,7 +2024,7 @@
             ],
             "capPercent": "2.4"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "cashRounding": {
           "effective": "2026-01-01",
@@ -1969,6 +2033,14 @@
             {
               "title": "Government of Canada: rounding cash transactions after the penny",
               "url": "https://www.mint.ca/"
+            },
+            {
+              "title": "CRA (archived): Eliminating the penny from Canada's coinage system",
+              "url": "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/federal-government-budgets/archived-budget-2012/archived-eliminating-penny-canada-s-coinage-system.html"
+            },
+            {
+              "title": "Government of Canada (2013): Royal Canadian Mint bid farewell to the penny",
+              "url": "https://www.canada.ca/en/news/archive/2013/02/government-canada-royal-canadian-mint-bid-farewell-canadian-penny.html"
             }
           ],
           "unit": "table",
@@ -1976,7 +2048,7 @@
             "mode": "required",
             "step": "0.05"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.apps": {
           "effective": "2026-09-30",
@@ -1992,7 +2064,7 @@
             "doorDash",
             "skipTheDishes"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.baseTier": {
           "effective": "2023-01-01",
@@ -2014,7 +2086,7 @@
             "note": "In British Columbia, apps serving 500 or more restaurants must offer a basic plan at 20% or less, before taxes and tips.",
             "province": "bc"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.doorDash": {
           "effective": "2025-09-11",
@@ -2142,7 +2214,7 @@
               "HST"
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.uberEats": {
           "effective": "2026-09-30",
@@ -2204,7 +2276,7 @@
             "rateStatus": "official",
             "sourceName": "Uber Eats Canada pricing page"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "denominations": {
           "effective": "2026-01-01",
@@ -2213,6 +2285,10 @@
             {
               "title": "Bank of Canada and Royal Canadian Mint",
               "url": "https://www.bankofcanada.ca/banknotes/"
+            },
+            {
+              "title": "Royal Canadian Mint: Canadian circulation coins",
+              "url": "https://www.mint.ca/en/discover/canadian-circulation"
             }
           ],
           "unit": "currency",
@@ -2232,7 +2308,7 @@
               "5"
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "electricityRate": {
           "effective": "2026-09-01",
@@ -2265,7 +2341,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "mealTax.bc": {
           "effective": "2013-04-01",
@@ -2290,7 +2366,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "mealTax.mb": {
           "effective": "2019-07-01",
@@ -2318,7 +2394,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "mealTax.nb": {
           "effective": "2016-07-01",
@@ -2338,7 +2414,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "mealTax.nl": {
           "effective": "2016-07-01",
@@ -2358,7 +2434,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "mealTax.ns": {
           "effective": "2025-04-01",
@@ -2378,7 +2454,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "mealTax.nt": {
           "effective": "2008-01-01",
@@ -2398,7 +2474,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "mealTax.nu": {
           "effective": "2008-01-01",
@@ -2418,7 +2494,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "mealTax.on": {
           "effective": "2010-07-01",
@@ -2431,6 +2507,10 @@
             {
               "title": "CRA GST/HST Info Sheet GI-064: Ontario point-of-sale rebate on prepared food and beverages",
               "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064.html"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064/harmonized-sales-tax-ontario-point-sale-rebate-on-prepared-food-beverages.html"
             }
           ],
           "unit": "table",
@@ -2453,7 +2533,7 @@
               "maxAmount": "4"
             }
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "mealTax.pe": {
           "effective": "2016-10-01",
@@ -2473,7 +2553,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "mealTax.qc": {
           "effective": "2013-01-01",
@@ -2502,7 +2582,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "mealTax.sk": {
           "effective": "2017-03-23",
@@ -2530,7 +2610,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "mealTax.yt": {
           "effective": "2008-01-01",
@@ -2550,7 +2630,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "minimumWage.nb": {
           "effective": "2026-04-01",
@@ -2572,11 +2652,15 @@
             {
               "title": "Newfoundland and Labrador Labour Standards: overtime",
               "url": "https://www.gov.nl.ca/ecc/labour/"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.gov.nl.ca/releases/2026/government-services/0226n02/"
             }
           ],
           "unit": "currencyPerHour",
           "value": "16.35",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "opening.permits": {
           "effective": "2026-09-30",
@@ -2641,7 +2725,7 @@
             ],
             "note": "Registration is by province and licences by city; the fees shown are Toronto's and Ontario's."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "overtime": {
           "effective": "2026-01-01",
@@ -2661,7 +2745,7 @@
             },
             "weeklyHours": "40"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.moneris": {
           "effective": "2026-09-30",
@@ -2709,7 +2793,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.stripe": {
           "effective": "2026-09-30",
@@ -2731,7 +2815,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.providers": {
           "effective": "2026-09-30",
@@ -2780,7 +2864,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.surcharge": {
           "effective": "2022-10-06",
@@ -2793,6 +2877,10 @@
             {
               "title": "Visa Canada: surcharging",
               "url": "https://www.visa.ca/en_CA/support/small-business/surcharging.html"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.canada.ca/en/financial-consumer-agency/services/merchants/credit-fees-merchant.html"
             }
           ],
           "unit": "table",
@@ -2800,7 +2888,7 @@
             "status": "limited",
             "summary": "Credit cards only, never more than your cost. The {cap} cap and the Quebec ban are widely reported but weren't confirmed on an official page."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.clover": {
           "effective": "2026-09-30",
@@ -2817,7 +2905,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.moneris": {
           "effective": "2026-09-30",
@@ -2872,7 +2960,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.stripe": {
           "effective": "2026-09-30",
@@ -2898,7 +2986,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "pricesIncludeTax": {
           "effective": "2010-07-01",
@@ -2910,7 +2998,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "provincialOvertime.ab": {
           "effective": "2026-01-01",
@@ -2918,6 +3006,10 @@
             {
               "title": "Alberta: overtime and overtime pay",
               "url": "https://www.alberta.ca/overtime"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.alberta.ca/overtime-hours-overtime-pay"
             }
           ],
           "unit": "table",
@@ -2926,7 +3018,7 @@
             "multiplier": "1.5",
             "weeklyHours": "44"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "provincialOvertime.bc": {
           "effective": "2026-01-01",
@@ -2934,6 +3026,10 @@
             {
               "title": "British Columbia: hours of work and overtime",
               "url": "https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/hours-of-work-and-overtime"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/hours/overtime-pay"
             }
           ],
           "unit": "table",
@@ -2944,7 +3040,7 @@
             "multiplier": "1.5",
             "weeklyHours": "40"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "provincialOvertime.federal": {
           "effective": "2026-01-01",
@@ -2960,7 +3056,7 @@
             "multiplier": "1.5",
             "weeklyHours": "40"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "provincialOvertime.mb": {
           "effective": "2026-01-01",
@@ -2968,6 +3064,10 @@
             {
               "title": "Manitoba Employment Standards: overtime",
               "url": "https://www.gov.mb.ca/labour/standards/"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.gov.mb.ca/labour/standards/doc,overtime,factsheet.html"
             }
           ],
           "unit": "table",
@@ -2976,7 +3076,7 @@
             "multiplier": "1.5",
             "weeklyHours": "40"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "provincialOvertime.nb": {
           "effective": "2026-01-01",
@@ -3002,6 +3102,10 @@
             {
               "title": "Newfoundland and Labrador Labour Standards: overtime",
               "url": "https://www.gov.nl.ca/ecc/labour/"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.gov.nl.ca/gs/files/Your-Rights-At-Work.pdf"
             }
           ],
           "unit": "table",
@@ -3010,7 +3114,7 @@
             "overtimeOnMinimumWage": true,
             "weeklyHours": "40"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "provincialOvertime.ns": {
           "effective": "2026-01-01",
@@ -3018,6 +3122,10 @@
             {
               "title": "Nova Scotia Labour Standards: overtime",
               "url": "https://novascotia.ca/lae/employmentrights/"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://novascotia.ca/lae/employmentrights/overtime.asp"
             }
           ],
           "unit": "table",
@@ -3025,7 +3133,7 @@
             "multiplier": "1.5",
             "weeklyHours": "48"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "provincialOvertime.nt": {
           "effective": "2026-01-01",
@@ -3033,6 +3141,10 @@
             {
               "title": "Northwest Territories Employment Standards",
               "url": "https://www.ece.gov.nt.ca/en/services/employment-standards"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.ece.gov.nt.ca/en/services/employment-standards/frequently-asked-questions"
             }
           ],
           "unit": "table",
@@ -3041,7 +3153,7 @@
             "multiplier": "1.5",
             "weeklyHours": "40"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "provincialOvertime.nu": {
           "effective": "2026-01-01",
@@ -3049,6 +3161,14 @@
             {
               "title": "Nunavut Labour Standards",
               "url": "https://nu-lsco.ca/"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://nu-lsco.ca/faq-s"
+            },
+            {
+              "title": "Nunavut Labour Standards Act, official consolidation",
+              "url": "https://www.nunavutlegislation.ca/sites/default/files/consolidated-law-current/CSNucL10_0.pdf"
             }
           ],
           "unit": "table",
@@ -3057,7 +3177,7 @@
             "multiplier": "1.5",
             "weeklyHours": "40"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "provincialOvertime.on": {
           "effective": "2026-01-01",
@@ -3072,29 +3192,63 @@
             "multiplier": "1.5",
             "weeklyHours": "44"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
-        "provincialOvertime.pe": {
-          "effective": "2026-01-01",
-          "sources": [
-            {
-              "title": "Prince Edward Island Employment Standards",
-              "url": "https://www.princeedwardisland.ca/en/topic/employment-standards"
-            }
-          ],
-          "unit": "table",
-          "value": {
-            "multiplier": "1.5",
-            "weeklyHours": "48"
+        "provincialOvertime.pe": [
+          {
+            "effective": "2026-01-01",
+            "sources": [
+              {
+                "title": "Prince Edward Island Employment Standards",
+                "url": "https://www.princeedwardisland.ca/en/topic/employment-standards"
+              },
+              {
+                "title": "PEI Employment Standards Act c.E-6.2, office consolidation to Oct 1, 2024 (archived copy; Act repealed by 2024 c.66)",
+                "url": "https://web.archive.org/web/20251208015122id_/https://www.princeedwardisland.ca/sites/default/files/legislation/e-06-2-employment_standards_act.pdf"
+              }
+            ],
+            "unit": "table",
+            "value": {
+              "multiplier": "1.5",
+              "weeklyHours": "48"
+            },
+            "verified": "2026-11-01"
           },
-          "verified": "2026-09-30"
-        },
+          {
+            "effective": "2026-06-30",
+            "notes": "The new PEI Employment Standards Act (SPEI 2024 c.66), in force 30 Jun 2026, sets standard weekly hours at 44, not 48 (s.15(1)), with 1.5x for each overtime hour (s.24(1)). The old Act was repealed. The input has no 30 Jun 2026 entry, so 48 is stale.",
+            "sources": [
+              {
+                "title": "Employment Standards Act, SPEI 2024 c.66, ss. 15(1), 24(1) (Legislative Assembly of PEI)",
+                "url": "https://docs.assembly.pe.ca/download/dms?objectId=b52b3eac-ca06-409c-ae5b-41a6716cbb4b&fileName=chapter-66+%28Employment+Standards+Act"
+              },
+              {
+                "title": "PEI Royal Gazette, 13 June 2026: proclamation bringing the Employment Standards Act into force 30 June 2026",
+                "url": "https://www.princeedwardisland.ca/sites/default/files/b135/RG%20Issue%2024-June%2013%202026%20online%202%20parts.pdf"
+              },
+              {
+                "title": "PEI Legislative Counsel: old Employment Standards Act (c. E-6.2), current to 30 Jun 2026, 'Repealed by 2024 c.66'",
+                "url": "https://www.princeedwardisland.ca/sites/default/files/legislation/e-06-2-employment_standards_act.pdf"
+              }
+            ],
+            "unit": "table",
+            "value": {
+              "multiplier": "1.5",
+              "weeklyHours": "44"
+            },
+            "verified": "2026-11-01"
+          }
+        ],
         "provincialOvertime.qc": {
           "effective": "2026-01-01",
           "sources": [
             {
               "title": "CNESST (Quebec): overtime",
               "url": "https://www.cnesst.gouv.qc.ca/en/working-conditions/leave/hours-work"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.cnesst.gouv.qc.ca/en/working-conditions/wage-and-pay/wages/overtime"
             }
           ],
           "unit": "table",
@@ -3110,6 +3264,14 @@
             {
               "title": "Saskatchewan Employment Standards: hours of work and overtime",
               "url": "https://www.saskatchewan.ca/business/employment-standards"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.saskatchewan.ca/business/employment-standards/overtime/general-overtime-information/overtime-in-a-day-versus-overtime-in-a-week"
+            },
+            {
+              "title": "Saskatchewan: General overtime information",
+              "url": "https://www.saskatchewan.ca/business/employment-standards/overtime/general-overtime-information"
             }
           ],
           "unit": "table",
@@ -3118,7 +3280,7 @@
             "multiplier": "1.5",
             "weeklyHours": "40"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "provincialOvertime.yt": {
           "effective": "2026-01-01",
@@ -3126,6 +3288,14 @@
             {
               "title": "Yukon Employment Standards",
               "url": "https://yukon.ca/en/employment-standards"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://yukon.ca/sites/yukon.ca/files/cs/cs-general-fact-sheet-employment-standards.pdf"
+            },
+            {
+              "title": "Yukon Employment Standards Act RSY 2002 c.72 (Library and Archives Canada web archive, 2021)",
+              "url": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20210609011406/http://www.gov.yk.ca/legislation/acts/emst_c.pdf"
             }
           ],
           "unit": "table",
@@ -3134,7 +3304,7 @@
             "multiplier": "1.5",
             "weeklyHours": "40"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.taxOnRent": {
           "effective": "2025-04-01",
@@ -3165,7 +3335,7 @@
             "sk": "5",
             "yt": "5"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "serviceChargeDefault": {
           "effective": "2026-01-01",
@@ -3176,7 +3346,7 @@
           ],
           "unit": "percent",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxOnServiceCharge": {
           "effective": "2010-07-01",
@@ -3185,11 +3355,15 @@
             {
               "title": "Canada Revenue Agency: tips and gratuities",
               "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/payroll-deductions-contributions/special-payments/tips-gratuities.html"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-special-cases.html"
             }
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRate": {
           "effective": "2010-07-01",
@@ -3202,7 +3376,7 @@
           ],
           "unit": "percent",
           "value": "13",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipDefault": {
           "effective": "2026-01-01",
@@ -3213,7 +3387,7 @@
           ],
           "unit": "percent",
           "value": "18",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipOnPreTax": {
           "effective": "2026-01-01",
@@ -3225,7 +3399,7 @@
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipPresets": {
           "effective": "2026-01-01",
@@ -3242,7 +3416,7 @@
             "20",
             "25"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "vacationPay.ab": {
           "effective": "2026-01-01",
@@ -3251,6 +3425,10 @@
             {
               "title": "Alberta: vacation and vacation pay",
               "url": "https://www.alberta.ca/vacation-and-vacation-pay"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.alberta.ca/vacation-pay"
             }
           ],
           "unit": "table",
@@ -3267,7 +3445,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "vacationPay.bc": {
           "effective": "2026-01-01",
@@ -3276,6 +3454,10 @@
             {
               "title": "British Columbia: hours of work and overtime",
               "url": "https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/hours-of-work-and-overtime"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/time-off/vacation"
             }
           ],
           "unit": "table",
@@ -3292,7 +3474,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "vacationPay.federal": {
           "effective": "2026-01-01",
@@ -3301,6 +3483,10 @@
             {
               "title": "Government of Canada: vacation with pay (Canada Labour Code)",
               "url": "https://www.canada.ca/en/services/jobs/workplace/federal-labour-standards/vacation.html"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.canada.ca/en/services/jobs/workplace/federal-labour-standards/vacations-holidays.html"
             }
           ],
           "unit": "table",
@@ -3321,7 +3507,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "vacationPay.mb": {
           "effective": "2026-01-01",
@@ -3330,6 +3516,10 @@
             {
               "title": "Manitoba Employment Standards: overtime",
               "url": "https://www.gov.mb.ca/labour/standards/"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.gov.mb.ca/labour/standards/doc,vacations,factsheet.html"
             }
           ],
           "unit": "table",
@@ -3346,7 +3536,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "vacationPay.nb": {
           "effective": "2026-01-01",
@@ -3380,6 +3570,10 @@
             {
               "title": "Newfoundland and Labrador Labour Standards: overtime",
               "url": "https://www.gov.nl.ca/ecc/labour/"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.gov.nl.ca/gs/files/Your-Rights-At-Work.pdf"
             }
           ],
           "unit": "table",
@@ -3396,7 +3590,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "vacationPay.ns": {
           "effective": "2026-01-01",
@@ -3405,6 +3599,10 @@
             {
               "title": "Nova Scotia Labour Standards: overtime",
               "url": "https://novascotia.ca/lae/employmentrights/"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://novascotia.ca/lae/employmentrights/vacationleavepay.asp"
             }
           ],
           "unit": "table",
@@ -3421,7 +3619,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "vacationPay.nt": {
           "effective": "2026-01-01",
@@ -3430,6 +3628,10 @@
             {
               "title": "Northwest Territories Employment Standards",
               "url": "https://www.ece.gov.nt.ca/en/services/employment-standards"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.ece.gov.nt.ca/en/services/employment-standards/frequently-asked-questions"
             }
           ],
           "unit": "table",
@@ -3446,7 +3648,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "vacationPay.nu": {
           "effective": "2026-01-01",
@@ -3455,6 +3657,14 @@
             {
               "title": "Nunavut Labour Standards",
               "url": "https://nu-lsco.ca/"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://nu-lsco.ca/faq-s"
+            },
+            {
+              "title": "Nunavut Labour Standards Act, official consolidation",
+              "url": "https://www.nunavutlegislation.ca/sites/default/files/consolidated-law-current/CSNucL10_0.pdf"
             }
           ],
           "unit": "table",
@@ -3471,7 +3681,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "vacationPay.on": {
           "effective": "2026-01-01",
@@ -3496,7 +3706,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "vacationPay.pe": [
           {
@@ -3506,6 +3716,10 @@
               {
                 "title": "Prince Edward Island Employment Standards",
                 "url": "https://www.princeedwardisland.ca/en/topic/employment-standards"
+              },
+              {
+                "title": "Official page (moved or alternative)",
+                "url": "https://docs.assembly.pe.ca/download/dms?objectId=b52b3eac-ca06-409c-ae5b-41a6716cbb4b&fileName=chapter-66+%28Employment+Standards+Act"
               }
             ],
             "unit": "table",
@@ -3522,7 +3736,7 @@
                 }
               ]
             },
-            "verified": "2026-09-30"
+            "verified": "2026-11-01"
           },
           {
             "effective": "2026-06-30",
@@ -3531,6 +3745,10 @@
               {
                 "title": "Prince Edward Island Employment Standards Act, SPEI 2024, c. 66, ss. 29(1) and 30 (in force 30 June 2026)",
                 "url": "https://www.princeedwardisland.ca/en/topic/employment-standards"
+              },
+              {
+                "title": "Official page (moved or alternative)",
+                "url": "https://docs.assembly.pe.ca/download/dms?objectId=b52b3eac-ca06-409c-ae5b-41a6716cbb4b&fileName=chapter-66+%28Employment+Standards+Act"
               }
             ],
             "unit": "table",
@@ -3547,7 +3765,7 @@
                 }
               ]
             },
-            "verified": "2026-09-30"
+            "verified": "2026-11-01"
           }
         ],
         "vacationPay.qc": {
@@ -3557,6 +3775,10 @@
             {
               "title": "CNESST (Quebec): overtime",
               "url": "https://www.cnesst.gouv.qc.ca/en/working-conditions/leave/hours-work"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.cnesst.gouv.qc.ca/en/working-conditions/leave/annual-vacation"
             }
           ],
           "unit": "table",
@@ -3582,6 +3804,10 @@
             {
               "title": "Saskatchewan Employment Standards: hours of work and overtime",
               "url": "https://www.saskatchewan.ca/business/employment-standards"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.saskatchewan.ca/business/employment-standards/vacations-and-vacation-pay/annual-vacation-and-vacation-pay"
             }
           ],
           "unit": "table",
@@ -3598,7 +3824,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "vacationPay.yt": {
           "effective": "2026-01-01",
@@ -3607,6 +3833,14 @@
             {
               "title": "Yukon Employment Standards",
               "url": "https://yukon.ca/en/employment-standards"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://yukon.ca/en/employment/employment-standards/learn-about-annual-vacation-pay-and-vacation-time"
+            },
+            {
+              "title": "Yukon Employment Standards Act RSY 2002 c.72 (Library and Archives Canada web archive, 2021)",
+              "url": "https://webarchiveweb.wayback.bac-lac.canada.ca/web/20210609011406/http://www.gov.yk.ca/legislation/acts/emst_c.pdf"
             }
           ],
           "unit": "table",
@@ -3619,7 +3853,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         }
       }
     },
@@ -3686,7 +3920,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "bar.measures": {
           "effective": "2026-09-30",
@@ -3699,6 +3933,14 @@
             {
               "title": "Licensing Act 2003 (Mandatory Licensing Conditions) Order 2010, Schedule para 4",
               "url": "https://www.legislation.gov.uk/uksi/2010/860/schedule"
+            },
+            {
+              "title": "Weights and Measures (Intoxicating Liquor) Order 1988, art. 2 (beer and cider)",
+              "url": "https://www.legislation.gov.uk/uksi/1988/2039/article/2"
+            },
+            {
+              "title": "Weights and Measures (Intoxicating Liquor) Order 1988, art. 5A (wine)",
+              "url": "https://www.legislation.gov.uk/uksi/1988/2039/article/5A"
             }
           ],
           "unit": "table",
@@ -3743,7 +3985,7 @@
             "spiritDefault": "25",
             "unit": "ml"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "businessRates.england": {
           "effective": "2026-04-01",
@@ -3782,7 +4024,7 @@
             "smallThreshold": "51000",
             "standardMultiplier": "0.48"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "cashRounding": {
           "effective": "2026-01-01",
@@ -3797,7 +4039,7 @@
             "mode": "none",
             "step": "0"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.apps": {
           "effective": "2026-09-30",
@@ -3813,7 +4055,7 @@
             "uberEats",
             "justEat"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.deliveroo": {
           "effective": "2026-09-30",
@@ -3850,7 +4092,7 @@
             "rateStatus": "typical",
             "sourceName": "Deliveroo UK partner terms"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.justEat": {
           "effective": "2026-09-30",
@@ -3893,7 +4135,7 @@
             "rateStatus": "reported",
             "sourceName": "UK restaurant blogs (June 2026)"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.taxes": {
           "effective": "2026-09-30",
@@ -3920,7 +4162,7 @@
             "feeTaxName": "VAT",
             "feeTaxPercent": "20"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.uberEats": {
           "effective": "2026-09-30",
@@ -3966,7 +4208,7 @@
             "rateStatus": "official",
             "sourceName": "Uber Eats UK pricing page"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "denominations": {
           "effective": "2026-01-01",
@@ -3975,6 +4217,10 @@
             {
               "title": "Bank of England and The Royal Mint",
               "url": "https://www.bankofengland.co.uk/banknotes"
+            },
+            {
+              "title": "Royal Mint: legal tender amounts",
+              "url": "https://www.royalmint.com/help/trm-faqs/legal-tender-amounts/"
             }
           ],
           "unit": "currency",
@@ -3996,7 +4242,7 @@
               "5"
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "electricityRate": {
           "effective": "2026-09-01",
@@ -4005,11 +4251,15 @@
             {
               "title": "Ofgem: energy price cap",
               "url": "https://www.ofgem.gov.uk/energy-price-cap"
+            },
+            {
+              "title": "Ofgem: energy price cap unit rates and standing charges",
+              "url": "https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-unit-rates-and-standing-charges"
             }
           ],
           "unit": "currencyPerKWh",
           "value": "0.27",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "holidayAccrualPercent": {
           "effective": "2024-04-01",
@@ -4018,29 +4268,56 @@
             {
               "title": "GOV.UK: Holiday pay and entitlement reforms (irregular hours, 12.07%)",
               "url": "https://www.gov.uk/guidance/holiday-pay-and-entitlement-reforms-from-1-january-2024"
+            },
+            {
+              "title": "GOV.UK: Holiday pay and entitlement reforms from 1 January 2024 (moved)",
+              "url": "https://www.gov.uk/government/publications/simplifying-holiday-entitlement-and-holiday-pay-calculations/holiday-pay-and-entitlement-reforms-from-1-january-2024"
             }
           ],
           "unit": "percent",
           "value": "12.07",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
-        "minimumWage": {
-          "effective": "2026-04-01",
-          "notes": "National Living Wage (21 and over) and National Minimum Wage rates. under18OrApprentice covers 16-17 and apprentices under 19 or in their first year.",
-          "sources": [
-            {
-              "title": "GOV.UK: National Minimum Wage and National Living Wage rates",
-              "url": "https://www.gov.uk/national-minimum-wage-rates"
-            }
-          ],
-          "unit": "currencyPerHour",
-          "value": {
-            "age18to20": "10.85",
-            "age21Plus": "12.71",
-            "under18OrApprentice": "8.00"
+        "minimumWage": [
+          {
+            "effective": "2026-04-01",
+            "notes": "National Living Wage (21 and over) and National Minimum Wage rates. under18OrApprentice covers 16-17 and apprentices under 19 or in their first year.",
+            "sources": [
+              {
+                "title": "GOV.UK: National Minimum Wage and National Living Wage rates",
+                "url": "https://www.gov.uk/national-minimum-wage-rates"
+              }
+            ],
+            "unit": "currencyPerHour",
+            "value": {
+              "age18to20": "10.85",
+              "age21Plus": "12.71",
+              "under18OrApprentice": "8.00"
+            },
+            "verified": "2026-11-01"
           },
-          "verified": "2026-09-30"
-        },
+          {
+            "effective": "2027-04-01",
+            "notes": "From April 2027 (the yearly uprating date is 1 April): National Living Wage (21 and over) £13.21, 18-20 £11.27, 16-17 and apprentices £8.31, each up 3.9%. Announced 28 Oct 2026; the Government accepted the Low Pay Commission's recommendations in full. under18OrApprentice covers 16-17 and apprentices under 19 or in their first year.",
+            "sources": [
+              {
+                "title": "GOV.UK (Low Pay Commission): Minimum wage rates for 2027, published 28 Oct 2026",
+                "url": "https://www.gov.uk/government/publications/minimum-wage-rates-for-2027"
+              },
+              {
+                "title": "GOV.UK press release: LPC recommendations take the National Living Wage to £13.21 (28 Oct 2026)",
+                "url": "https://www.gov.uk/government/news/lpc-recommendations-take-the-national-living-wage-to-1321"
+              }
+            ],
+            "unit": "currencyPerHour",
+            "value": {
+              "age18to20": "11.27",
+              "age21Plus": "13.21",
+              "under18OrApprentice": "8.31"
+            },
+            "verified": "2026-11-01"
+          }
+        ],
         "opening.permits": {
           "effective": "2026-09-30",
           "notes": "Food business registration with the council is free and can't be refused (at least 28 days before trading). Premises licence application £100 (Band A) to £635 (Band E) by non-domestic rateable value, annual fee £70–£350 (alcohol-led Bands D and E × 2 and × 3). Personal licence £37. Companies House £100 online since 1 Feb 2026. The licensing fees are the 2005 statutory fees; the government has said it is reviewing them.",
@@ -4056,6 +4333,10 @@
             {
               "title": "GOV.UK: Register your company",
               "url": "https://www.gov.uk/limited-company-formation/register-your-company"
+            },
+            {
+              "title": "Licensing Act 2003 (Fees) Regulations 2005, Schedule 6",
+              "url": "https://www.legislation.gov.uk/uksi/2005/79/schedule/6"
             }
           ],
           "unit": "table",
@@ -4100,7 +4381,7 @@
             ],
             "note": "Licence fees are England and Wales's (premises licence also £70–£350 a year); Scotland and Northern Ireland differ."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "overtime": {
           "effective": "2026-01-01",
@@ -4121,7 +4402,7 @@
             },
             "weeklyHours": "40"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.square": {
           "effective": "2026-09-30",
@@ -4143,7 +4424,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.stripe": {
           "effective": "2026-09-30",
@@ -4165,7 +4446,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.sumUp": {
           "effective": "2026-09-30",
@@ -4186,7 +4467,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.providers": {
           "effective": "2026-09-30",
@@ -4228,7 +4509,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.surcharge": {
           "effective": "2018-01-13",
@@ -4244,7 +4525,7 @@
             "status": "banned",
             "summary": "Surcharges on consumer cards have been banned since January 2018; business cards may be surcharged up to your cost."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.dojo": {
           "effective": "2026-09-30",
@@ -4285,7 +4566,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.sumUp": {
           "effective": "2026-09-30",
@@ -4306,7 +4587,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.sumUpPlus": {
           "effective": "2026-09-30",
@@ -4328,7 +4609,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.zettle": {
           "effective": "2026-09-30",
@@ -4349,7 +4630,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "pricesIncludeTax": {
           "effective": "2011-01-04",
@@ -4361,7 +4642,7 @@
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.taxOnRent": {
           "effective": "2011-01-04",
@@ -4382,7 +4663,7 @@
           ],
           "unit": "percent",
           "value": "20",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "serviceChargeDefault": {
           "effective": "2026-01-01",
@@ -4411,7 +4692,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRate": {
           "effective": "2011-01-04",
@@ -4424,7 +4705,7 @@
           ],
           "unit": "percent",
           "value": "20",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRegistrationThreshold": {
           "effective": "2024-04-01",
@@ -4439,7 +4720,7 @@
           "value": {
             "amount": "90000"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipDefault": {
           "effective": "2026-01-01",
@@ -4450,7 +4731,7 @@
           ],
           "unit": "percent",
           "value": "12.5",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipOnPreTax": {
           "effective": "2026-01-01",
@@ -4462,7 +4743,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipPresets": {
           "effective": "2026-01-01",
@@ -4479,7 +4760,7 @@
             "12.5",
             "15"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         }
       }
     },
@@ -4515,6 +4796,10 @@
             {
               "title": "Hong Kong Monetary Authority: notes and coins",
               "url": "https://www.hkma.gov.hk/eng/key-functions/money/banknotes/"
+            },
+            {
+              "title": "HKMA: Hong Kong currency (coins / notes)",
+              "url": "https://www.hkma.gov.hk/eng/key-functions/money/hong-kong-currency/coins/"
             }
           ],
           "unit": "table",
@@ -4522,7 +4807,7 @@
             "mode": "required",
             "step": "0.10"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "continuousContract": {
           "effective": "2026-01-18",
@@ -4531,6 +4816,10 @@
             {
               "title": "Labour Department: A Concise Guide to the Employment Ordinance",
               "url": "https://www.labour.gov.hk/eng/public/ConciseGuide.htm"
+            },
+            {
+              "title": "Labour Department, Concise Guide to the Employment Ordinance, Chapter 1",
+              "url": "https://www.labour.gov.hk/eng/public/wcp/ConciseGuide/01.pdf"
             }
           ],
           "unit": "table",
@@ -4538,7 +4827,7 @@
             "fourWeekHours": "68",
             "weeklyHours": "17"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.apps": {
           "effective": "2026-09-30",
@@ -4553,7 +4842,7 @@
             "foodpanda",
             "keeta"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.foodpanda": {
           "effective": "2026-09-30",
@@ -4593,7 +4882,7 @@
             "rateStatus": "notPublished",
             "sourceName": "Competition Commission notice (December 2023)"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.keeta": {
           "effective": "2026-09-30",
@@ -4641,7 +4930,7 @@
             "rateStatus": "reported",
             "sourceName": "Sing Tao and East Week (September 2026)"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.taxes": {
           "effective": "2026-09-30",
@@ -4660,7 +4949,7 @@
             "feeTaxName": "Tax",
             "feeTaxPercent": "0"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "denominations": {
           "effective": "2026-01-01",
@@ -4669,6 +4958,14 @@
             {
               "title": "Hong Kong Monetary Authority: notes and coins",
               "url": "https://www.hkma.gov.hk/eng/key-functions/money/banknotes/"
+            },
+            {
+              "title": "HKMA: Hong Kong currency (coins / notes)",
+              "url": "https://www.hkma.gov.hk/eng/key-functions/money/hong-kong-currency/coins/"
+            },
+            {
+              "title": "HKMA - Notes (replaces the 404 banknotes URL)",
+              "url": "https://www.hkma.gov.hk/eng/key-functions/money/hong-kong-currency/notes"
             }
           ],
           "unit": "currency",
@@ -4691,7 +4988,7 @@
               "10"
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "electricityRate": {
           "effective": "2026-09-01",
@@ -4717,7 +5014,7 @@
           ],
           "unit": "currencyPerHour",
           "value": "43.1",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "opening.permits": {
           "effective": "2026-09-30",
@@ -4772,7 +5069,7 @@
             ],
             "note": "The FEHD fee rises with floor area; renewal is HK$2,520 a year up to 100 m²."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "overtime": {
           "effective": "2026-01-01",
@@ -4815,7 +5112,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.payMe": {
           "effective": "2026-09-30",
@@ -4836,7 +5133,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.stripe": {
           "effective": "2026-09-30",
@@ -4866,7 +5163,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.providers": {
           "effective": "2026-09-30",
@@ -4919,7 +5216,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.surcharge": {
           "effective": "2008-08-15",
@@ -4935,7 +5232,7 @@
             "status": "banned",
             "summary": "Visa, Mastercard and American Express rules forbid card surcharges in Hong Kong."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.kPay": {
           "effective": "2026-09-30",
@@ -4952,7 +5249,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.octopus": {
           "effective": "2026-09-30",
@@ -4974,7 +5271,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.payMe": {
           "effective": "2026-09-30",
@@ -4995,7 +5292,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.stripe": {
           "effective": "2026-09-30",
@@ -5017,7 +5314,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "pricesIncludeTax": {
           "effective": "1997-07-01",
@@ -5025,11 +5322,15 @@
             {
               "title": "Hong Kong has no sales tax or VAT",
               "url": "https://www.gov.hk/en/residents/taxes/"
+            },
+            {
+              "title": "InvestHK: no sales tax or VAT",
+              "url": "https://www.investhk.gov.hk/en/why-hong-kong/competitive-two-tiered-profits-tax-rate/"
             }
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.rates": {
           "effective": "2026-04-01",
@@ -5042,7 +5343,7 @@
           ],
           "unit": "percent",
           "value": "5",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "serviceChargeDefault": {
           "effective": "2026-01-01",
@@ -5054,7 +5355,7 @@
           ],
           "unit": "percent",
           "value": "10",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "statutoryHolidays": {
           "effective": "2026-01-01",
@@ -5063,6 +5364,10 @@
             {
               "title": "Labour Department: statutory holidays",
               "url": "https://www.labour.gov.hk/eng/news/holidays_list.htm"
+            },
+            {
+              "title": "Labour Department - Statutory Holidays for 2026",
+              "url": "https://www.labour.gov.hk/eng/news/latest_holidays2026.htm"
             }
           ],
           "unit": "table",
@@ -5070,7 +5375,7 @@
             "count": "15",
             "year": "2026"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxOnServiceCharge": {
           "effective": "1997-07-01",
@@ -5078,11 +5383,15 @@
             {
               "title": "Hong Kong has no sales tax or VAT",
               "url": "https://www.gov.hk/en/residents/taxes/"
+            },
+            {
+              "title": "InvestHK: no sales tax or VAT",
+              "url": "https://www.investhk.gov.hk/en/why-hong-kong/competitive-two-tiered-profits-tax-rate/"
             }
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRate": {
           "effective": "1997-07-01",
@@ -5090,11 +5399,15 @@
             {
               "title": "Hong Kong has no sales tax or VAT",
               "url": "https://www.gov.hk/en/residents/taxes/"
+            },
+            {
+              "title": "InvestHK: no sales tax or VAT",
+              "url": "https://www.investhk.gov.hk/en/why-hong-kong/competitive-two-tiered-profits-tax-rate/"
             }
           ],
           "unit": "percent",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipDefault": {
           "effective": "2026-01-01",
@@ -5105,7 +5418,7 @@
           ],
           "unit": "percent",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipOnPreTax": {
           "effective": "2026-01-01",
@@ -5117,7 +5430,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipPresets": {
           "effective": "2026-01-01",
@@ -5133,7 +5446,7 @@
             "5",
             "10"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         }
       }
     },
@@ -5190,7 +5503,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "cashRounding": {
           "effective": "2026-01-01",
@@ -5199,6 +5512,10 @@
             {
               "title": "Bank Negara Malaysia: rounding mechanism",
               "url": "https://www.bnm.gov.my/"
+            },
+            {
+              "title": "BNM: Introduction of a Rounding Mechanism for Over-the-Counter Payments",
+              "url": "https://www.bnm.gov.my/-/introduction-of-a-rounding-mechanism-for-over-the-counter-payments"
             }
           ],
           "unit": "table",
@@ -5206,7 +5523,7 @@
             "mode": "required",
             "step": "0.05"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.apps": {
           "effective": "2026-09-30",
@@ -5222,7 +5539,7 @@
             "foodpanda",
             "shopeeFood"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.foodpanda": {
           "effective": "2026-09-30",
@@ -5258,7 +5575,7 @@
             "rateStatus": "notPublished",
             "sourceName": "foodpanda Malaysia partner FAQ"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.grabFood": {
           "effective": "2026-09-30",
@@ -5294,7 +5611,7 @@
             "rateStatus": "notPublished",
             "sourceName": "Grab Malaysia merchant page"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.shopeeFood": {
           "effective": "2024-03-01",
@@ -5335,7 +5652,7 @@
             "rateStatus": "official",
             "sourceName": "ShopeeFood Malaysia merchant FAQ"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.taxes": {
           "effective": "2026-09-30",
@@ -5358,7 +5675,7 @@
             "feeTaxName": "Service tax",
             "feeTaxPercent": "8"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "denominations": {
           "effective": "2026-01-01",
@@ -5367,6 +5684,14 @@
             {
               "title": "Bank Negara Malaysia: currency",
               "url": "https://www.bnm.gov.my/"
+            },
+            {
+              "title": "BNM: Current Banknote Series",
+              "url": "https://www.bnm.gov.my/currency/banknotes"
+            },
+            {
+              "title": "BNM - Current Coin Series",
+              "url": "https://www.bnm.gov.my/currency/coins"
             }
           ],
           "unit": "currency",
@@ -5386,7 +5711,7 @@
               "1"
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "electricityRate": {
           "effective": "2026-09-01",
@@ -5460,7 +5785,7 @@
             ],
             "note": "Licences and fees are set by your local council."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "overtime": {
           "effective": "2023-01-01",
@@ -5469,6 +5794,10 @@
             {
               "title": "Employment Act 1955 (as amended 2022): overtime",
               "url": "https://jtksm.mohr.gov.my/"
+            },
+            {
+              "title": "Employment Act 1955 (Act 265), JTKSM",
+              "url": "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265).pdf"
             }
           ],
           "unit": "table",
@@ -5490,6 +5819,10 @@
             {
               "title": "Employment Act 1955 (as amended 2022): overtime",
               "url": "https://jtksm.mohr.gov.my/"
+            },
+            {
+              "title": "JTKSM FAQ: Employment Act 1955 (Amendment) 2022",
+              "url": "https://jtksm.mohr.gov.my/en/frequently-asked-questions/employment-act-1955-amendment-2022"
             }
           ],
           "unit": "table",
@@ -5514,7 +5847,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.iPay88": {
           "effective": "2026-09-30",
@@ -5531,7 +5864,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.stripe": {
           "effective": "2026-09-30",
@@ -5560,7 +5893,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.providers": {
           "effective": "2026-09-30",
@@ -5614,7 +5947,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.surcharge": {
           "effective": "2014-12-23",
@@ -5634,7 +5967,7 @@
             "status": "banned",
             "summary": "Surcharges on debit and prepaid cards are banned (Bank Negara Malaysia), and Visa's rules forbid them on credit cards."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.cimb": {
           "effective": "2026-09-30",
@@ -5651,7 +5984,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.maybank": {
           "effective": "2026-09-30",
@@ -5660,6 +5993,10 @@
             {
               "title": "Maybank: merchant services (rates negotiated)",
               "url": "https://www.maybank2u.com.my/"
+            },
+            {
+              "title": "Maybank",
+              "url": "https://www.maybank.com/en/"
             }
           ],
           "unit": "table",
@@ -5668,7 +6005,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.publicBank": {
           "effective": "2026-09-30",
@@ -5685,7 +6022,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.stripe": {
           "effective": "2026-09-30",
@@ -5694,6 +6031,10 @@
             {
               "title": "Stripe: pricing (Malaysia)",
               "url": "https://stripe.com/en-my/pricing"
+            },
+            {
+              "title": "Stripe Terminal (Malaysia)",
+              "url": "https://stripe.com/en-my/terminal"
             }
           ],
           "unit": "table",
@@ -5707,7 +6048,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.touchNGo": {
           "effective": "2026-09-30",
@@ -5724,7 +6065,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "pricesIncludeTax": {
           "effective": "2018-09-01",
@@ -5736,7 +6077,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.msmeExemption": [
           {
@@ -5784,7 +6125,7 @@
             ],
             "unit": "percent",
             "value": "8",
-            "verified": "2026-09-30"
+            "verified": "2026-11-01"
           },
           {
             "effective": "2026-01-01",
@@ -5801,7 +6142,7 @@
             ],
             "unit": "percent",
             "value": "6",
-            "verified": "2026-09-30"
+            "verified": "2026-11-01"
           }
         ],
         "serviceChargeDefault": {
@@ -5813,7 +6154,7 @@
           ],
           "unit": "percent",
           "value": "10",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxOnServiceCharge": {
           "effective": "2018-09-01",
@@ -5822,11 +6163,15 @@
             {
               "title": "Royal Malaysian Customs Department: MySST (service tax on food and beverage)",
               "url": "https://mysst.customs.gov.my/"
+            },
+            {
+              "title": "MySST: FAQ Service Tax",
+              "url": "https://mysst.customs.gov.my/faq-services-tax/"
             }
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRate": {
           "effective": "2018-09-01",
@@ -5835,11 +6180,15 @@
             {
               "title": "Royal Malaysian Customs Department: MySST (service tax on food and beverage)",
               "url": "https://mysst.customs.gov.my/"
+            },
+            {
+              "title": "MySST: FAQ Service Tax",
+              "url": "https://mysst.customs.gov.my/faq-services-tax/"
             }
           ],
           "unit": "percent",
           "value": "6",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRegistrationThreshold": {
           "effective": "2018-09-01",
@@ -5848,13 +6197,17 @@
             {
               "title": "Royal Malaysian Customs Department: MySST (service tax on food and beverage)",
               "url": "https://mysst.customs.gov.my/"
+            },
+            {
+              "title": "MySST: FAQ Service Tax",
+              "url": "https://mysst.customs.gov.my/faq-services-tax/"
             }
           ],
           "unit": "currency",
           "value": {
             "amount": "1500000"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipDefault": {
           "effective": "2026-01-01",
@@ -5865,7 +6218,7 @@
           ],
           "unit": "percent",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipOnPreTax": {
           "effective": "2026-01-01",
@@ -5877,7 +6230,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipPresets": {
           "effective": "2026-01-01",
@@ -5893,7 +6246,7 @@
             "5",
             "10"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         }
       }
     },
@@ -5961,7 +6314,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "basicNecessities": {
           "effective": "2024-03-25",
@@ -5970,6 +6323,10 @@
             {
               "title": "DTI-DA-DOE Joint Administrative Order 24-02",
               "url": "https://www.dti.gov.ph/"
+            },
+            {
+              "title": "DA: Senior Citizens, PWDs to enjoy additional discount on basic necessities (JAO 24-02)",
+              "url": "https://www.da.gov.ph/senior-citizens-pwds-to-enjoy-additional-discount-on-purchasing-basic-necessities-prime-commodities/"
             }
           ],
           "unit": "table",
@@ -5992,7 +6349,7 @@
             "mode": "none",
             "step": "0"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.apps": {
           "effective": "2026-09-30",
@@ -6008,7 +6365,7 @@
             "foodpanda",
             "shopeeFood"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.foodpanda": {
           "effective": "2026-09-30",
@@ -6049,7 +6406,7 @@
             "rateStatus": "typical",
             "sourceName": "foodpanda PH partner FAQ"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.grabFood": {
           "effective": "2026-09-30",
@@ -6094,7 +6451,7 @@
             "rateStatus": "typical",
             "sourceName": "Grab PH merchant help centre"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.shopeeFood": {
           "effective": "2026-09-16",
@@ -6134,7 +6491,7 @@
             "rateStatus": "typical",
             "sourceName": "ShopeeFood Malaysia merchant FAQ"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.taxes": {
           "effective": "2026-09-30",
@@ -6153,7 +6510,7 @@
             "feeTaxName": "VAT",
             "feeTaxPercent": "12"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.withholding": {
           "effective": "2024-01-11",
@@ -6185,7 +6542,7 @@
             "annualThreshold": "500000",
             "ratePercent": "0.5"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "denominations": {
           "effective": "2026-01-01",
@@ -6237,7 +6594,7 @@
             "exemption": "250000",
             "ratePercent": "8"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "electricityRate": {
           "effective": "2026-09-01",
@@ -6246,11 +6603,15 @@
             {
               "title": "Meralco rate schedule",
               "url": "https://company.meralco.com.ph/news-and-advisories/rates-archives"
+            },
+            {
+              "title": "Meralco September 2026 residential bills",
+              "url": "https://meralcomain.s3.ap-southeast-1.amazonaws.com/2026-09/09-2026_residential_bills.pdf"
             }
           ],
           "unit": "currencyPerKWh",
           "value": "14.74",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "expandedWithholding": {
           "effective": "2021-01-01",
@@ -6262,6 +6623,10 @@
             },
             {
               "title": "BIR Revenue Regulations No. 11-2018 as amended by RR 31-2020 (top withholding agents)"
+            },
+            {
+              "title": "BIR digest of RR 11-2018",
+              "url": "https://bir-cdn.bir.gov.ph/local/pdf/Digest%20RR%2011-2018.pdf"
             }
           ],
           "unit": "table",
@@ -6269,7 +6634,7 @@
             "goodsPercent": "1",
             "servicesPercent": "2"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "incomeTax.graduated": {
           "effective": "2023-01-01",
@@ -6312,7 +6677,7 @@
               "ratePercent": "35"
             }
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "minimumWage.ncr": {
           "effective": "2026-09-26",
@@ -6329,7 +6694,7 @@
             "smallRetailService": "718",
             "wageOrder": "NCR-28"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "opening.permits": {
           "effective": "2026-09-30",
@@ -6466,7 +6831,7 @@
             ],
             "note": "SSS, PhilHealth and Pag-IBIG employer registration is free. Use the DTI line for a sole proprietorship or the SEC line for a corporation."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "optionalStandardDeduction": {
           "effective": "2018-01-01",
@@ -6483,7 +6848,7 @@
           ],
           "unit": "percent",
           "value": "40",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "overtime": {
           "effective": "2026-01-01",
@@ -6503,7 +6868,7 @@
             },
             "weeklyHours": "40"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "pagIBIG": {
           "effective": "2024-02-01",
@@ -6544,7 +6909,7 @@
             "ratesFrom": "xendit",
             "tax": "excluded"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.mayaCheckout": {
           "effective": "2026-09-30",
@@ -6586,7 +6951,7 @@
             },
             "tax": "included"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.payMongo": {
           "effective": "2026-09-30",
@@ -6630,7 +6995,7 @@
             },
             "tax": "excluded"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.xendit": {
           "effective": "2026-09-30",
@@ -6776,7 +7141,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.surcharge": {
           "effective": "2026-09-30",
@@ -6792,7 +7157,7 @@
             "status": "contract",
             "summary": "Maya's merchant terms forbid adding its fee to the customer's bill; check your own provider's terms."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.bdo": {
           "effective": "2026-09-30",
@@ -6826,7 +7191,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.gcash": {
           "effective": "2026-09-30",
@@ -6843,7 +7208,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.grabPay": {
           "effective": "2026-09-30",
@@ -6907,7 +7272,7 @@
             },
             "tax": "included"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.metrobank": {
           "effective": "2026-09-30",
@@ -6924,7 +7289,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.payMongo": {
           "effective": "2026-09-30",
@@ -6945,7 +7310,7 @@
             },
             "tax": "excluded"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.unionBank": {
           "effective": "2026-09-30",
@@ -7008,7 +7373,7 @@
             "otherBase": "netOfProviderFees",
             "ratePercent": "0.5"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payroll.daysPerYear": {
           "effective": "1974-11-01",
@@ -7017,11 +7382,19 @@
             {
               "title": "DOLE Handbook on Workers' Statutory Monetary Benefits",
               "url": "https://bwc.dole.gov.ph/"
+            },
+            {
+              "title": "DOLE-BWC FAQs on Labor Standards (hosted by the Cooperative Development Authority)",
+              "url": "https://cda.gov.ph/wp-content/uploads/2019/07/coopsday-DOLE-BWC-FAQs-on-Labor-Standards.pdf"
+            },
+            {
+              "title": "PhilHealth Circular 2018-0001",
+              "url": "https://www.philhealth.gov.ph/circulars/2018/circ2018-0001.pdf"
             }
           ],
           "unit": "days",
           "value": "313",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "percentageTax": [
           {
@@ -7035,7 +7408,7 @@
             ],
             "unit": "percent",
             "value": "1",
-            "verified": "2026-09-30"
+            "verified": "2026-11-01"
           },
           {
             "effective": "2023-07-01",
@@ -7051,7 +7424,7 @@
             ],
             "unit": "percent",
             "value": "3",
-            "verified": "2026-09-30"
+            "verified": "2026-11-01"
           }
         ],
         "philHealth": {
@@ -7065,6 +7438,10 @@
             {
               "title": "RA 11223 (Universal Health Care Act)",
               "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11223_2019.html"
+            },
+            {
+              "title": "PhilHealth premium contribution table",
+              "url": "https://www.philhealth.gov.ph/partners/employers/ContributionTable_v2.pdf"
             }
           ],
           "unit": "table",
@@ -7074,7 +7451,7 @@
             "incomeFloor": "10000",
             "premiumPercent": "5"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "premiumPay": {
           "effective": "1974-11-01",
@@ -7154,7 +7531,7 @@
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.moveIn": {
           "effective": "2022-08-17",
@@ -7174,7 +7551,7 @@
             "advanceMonths": "3",
             "depositMonths": "3"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.percentageRentExample": {
           "effective": "2026-09-30",
@@ -7190,7 +7567,7 @@
           ],
           "unit": "percent",
           "value": "5",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.taxOnRent": {
           "effective": "2006-02-01",
@@ -7203,7 +7580,7 @@
           ],
           "unit": "percent",
           "value": "12",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.withholding": {
           "effective": "1998-04-17",
@@ -7232,7 +7609,7 @@
           ],
           "unit": "percent",
           "value": "5",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "seniorPWD.discountPercent": {
           "effective": "2010-02-15",
@@ -7252,7 +7629,7 @@
           ],
           "unit": "percent",
           "value": "20",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "serviceChargeDefault": {
           "effective": "2026-01-01",
@@ -7265,7 +7642,7 @@
           ],
           "unit": "percent",
           "value": "10",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "serviceChargeSharing": {
           "effective": "2019-08-08",
@@ -7302,7 +7679,7 @@
           ],
           "unit": "percent",
           "value": "10",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "sss": {
           "effective": "2025-01-01",
@@ -7315,6 +7692,10 @@
             {
               "title": "RA 11199 (Social Security Act of 2018)",
               "url": "https://lawphil.net/statutes/repacts/ra2019/ra_11199_2019.html"
+            },
+            {
+              "title": "SSS Circular No. 2024-006 (Business employers and employees)",
+              "url": "https://www.sss.gov.ph/wp-content/uploads/2024/12/Cir-2024-006-Employers-scaled.jpg"
             }
           ],
           "unit": "table",
@@ -7335,7 +7716,7 @@
             "mscMin": "5000",
             "mscStep": "500"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxOnServiceCharge": {
           "effective": "2006-02-01",
@@ -7352,7 +7733,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRate": {
           "effective": "2006-02-01",
@@ -7369,7 +7750,7 @@
           ],
           "unit": "percent",
           "value": "12",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRegistrationThreshold": {
           "effective": "2018-01-01",
@@ -7388,7 +7769,7 @@
           "value": {
             "amount": "3000000"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipDefault": {
           "effective": "2026-01-01",
@@ -7399,7 +7780,7 @@
           ],
           "unit": "percent",
           "value": "10",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipOnPreTax": {
           "effective": "2026-01-01",
@@ -7411,7 +7792,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipPresets": {
           "effective": "2026-01-01",
@@ -7430,7 +7811,7 @@
             "15",
             "20"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "withholdingTax.monthly": {
           "effective": "2023-01-01",
@@ -7443,6 +7824,10 @@
             {
               "title": "BIR Revenue Regulations No. 11-2018, Annex E (2023 onward table)",
               "url": "https://www.bir.gov.ph/"
+            },
+            {
+              "title": "BIR RR 11-2018 Annex E",
+              "url": "https://bir-cdn.bir.gov.ph/local/pdf/Annex%20E%20RR%2011-2018.pdf"
             }
           ],
           "unit": "table",
@@ -7473,7 +7858,7 @@
               "ratePercent": "35"
             }
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         }
       }
     },
@@ -7515,7 +7900,7 @@
             "mode": "none",
             "step": "0"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.apps": {
           "effective": "2026-09-30",
@@ -7537,7 +7922,7 @@
             "theChefz",
             "mrsool"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.hungerStation": {
           "effective": "2026-09-30",
@@ -7577,7 +7962,7 @@
             "rateStatus": "notPublished",
             "sourceName": "HungerStation partner FAQ"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.jahez": {
           "effective": "2026-08-09",
@@ -7618,7 +8003,7 @@
             "rateStatus": "average",
             "sourceName": "Jahez Q2 2026 results"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.keeta": {
           "effective": "2026-09-30",
@@ -7658,7 +8043,7 @@
             "rateStatus": "notPublished",
             "sourceName": "Argaam and 36Kr"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.mrsool": {
           "effective": "2026-09-30",
@@ -7698,7 +8083,7 @@
             "rateStatus": "notPublished",
             "sourceName": "Mrsool partnership page"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.taxes": {
           "effective": "2026-09-30",
@@ -7707,6 +8092,10 @@
             {
               "title": "ZATCA: VAT Implementing Regulations",
               "url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Documents/Implmenting%20Regulations%20of%20the%20VAT%20Law_EN.pdf"
+            },
+            {
+              "title": "ZATCA: Guideline for agents under VAT provisions",
+              "url": "https://zatca.gov.sa/en/HelpCenter/guidelines/Documents/Guideline-For-Agents-under-VAT-Provisions.pdf"
             }
           ],
           "unit": "table",
@@ -7717,7 +8106,7 @@
             "feeTaxName": "VAT",
             "feeTaxPercent": "15"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.theChefz": {
           "effective": "2026-09-30",
@@ -7753,7 +8142,7 @@
             "rateStatus": "notPublished",
             "sourceName": "Al-Eqtisadiah (2022)"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "denominations": {
           "effective": "2026-01-01",
@@ -7762,6 +8151,10 @@
             {
               "title": "Saudi Central Bank: currency",
               "url": "https://www.sama.gov.sa/"
+            },
+            {
+              "title": "SAMA: sixth issue",
+              "url": "https://www.sama.gov.sa/en-US/Currency/pages/sixthissue.aspx"
             }
           ],
           "unit": "currency",
@@ -7783,7 +8176,7 @@
               "5"
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "electricityRate": {
           "effective": "2026-09-01",
@@ -7805,6 +8198,14 @@
             {
               "title": "Saudi Labor Law (as amended, effective 19 February 2025), Arts. 84, 85, 107",
               "url": "https://www.hrsd.gov.sa/en/knowledge-centre/decisions-and-regulations/regulation-and-procedures"
+            },
+            {
+              "title": "HRSD: end-of-service award regulations",
+              "url": "https://www.hrsd.gov.sa/en/knowledge-centre/articles/317"
+            },
+            {
+              "title": "HRSD: awareness guide on rights and duties of employers and workers (Dec 2025)",
+              "url": "https://www.hrsd.gov.sa/sites/default/files/2025-12/awareness-guide-on-the-rights-and-duties-of-employers-and-workers---1-.pdf"
             }
           ],
           "unit": "table",
@@ -7833,7 +8234,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "opening.permits": {
           "effective": "2026-09-30",
@@ -7888,7 +8289,7 @@
             ],
             "note": "The commercial registration also registers the business with ZATCA, GOSI and HRSD."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "overtime": {
           "effective": "2025-02-19",
@@ -7897,6 +8298,14 @@
             {
               "title": "Saudi Labor Law (as amended, effective 19 February 2025), Arts. 84, 85, 107",
               "url": "https://www.hrsd.gov.sa/en/knowledge-centre/decisions-and-regulations/regulation-and-procedures"
+            },
+            {
+              "title": "HRSD: awareness guide on rights and duties of employers and workers (Dec 2025)",
+              "url": "https://www.hrsd.gov.sa/sites/default/files/2025-12/awareness-guide-on-the-rights-and-duties-of-employers-and-workers---1-.pdf"
+            },
+            {
+              "title": "HRSD: overtime hours",
+              "url": "https://www.hrsd.gov.sa/en/knowledge-centre/articles/313"
             }
           ],
           "unit": "table",
@@ -7909,7 +8318,7 @@
             },
             "weeklyHours": "48"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "overtimePremium": {
           "effective": "2025-02-19",
@@ -7918,6 +8327,10 @@
             {
               "title": "Saudi Labor Law (as amended, effective 19 February 2025), Arts. 84, 85, 107",
               "url": "https://www.hrsd.gov.sa/en/knowledge-centre/decisions-and-regulations/regulation-and-procedures"
+            },
+            {
+              "title": "HRSD: awareness guide on rights and duties of employers and workers (Dec 2025)",
+              "url": "https://www.hrsd.gov.sa/sites/default/files/2025-12/awareness-guide-on-the-rights-and-duties-of-employers-and-workers---1-.pdf"
             }
           ],
           "unit": "table",
@@ -7926,7 +8339,7 @@
             "daysPerMonth": "30",
             "hoursPerDay": "8"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.hyperPay": {
           "effective": "2026-09-30",
@@ -7943,7 +8356,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.moyasar": {
           "effective": "2026-09-30",
@@ -7960,7 +8373,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.tap": {
           "effective": "2026-09-30",
@@ -7977,7 +8390,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.providers": {
           "effective": "2026-09-30",
@@ -8032,7 +8445,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.surcharge": {
           "effective": "2026-09-30",
@@ -8047,7 +8460,7 @@
             "status": "unverified",
             "summary": "Card surcharge rules weren't verified; ask your bank or payment provider before adding one."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.geidea": {
           "effective": "2026-09-30",
@@ -8064,7 +8477,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.neoleap": {
           "effective": "2026-09-30",
@@ -8090,7 +8503,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "pricesIncludeTax": {
           "effective": "2020-07-01",
@@ -8102,7 +8515,7 @@
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.riyadhRentFreeze": {
           "effective": "2025-09-25",
@@ -8122,7 +8535,7 @@
             "until": "2030-09-25",
             "years": "5"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.taxOnRent": {
           "effective": "2020-07-01",
@@ -8131,11 +8544,15 @@
             {
               "title": "ZATCA: VAT Implementing Regulations",
               "url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Documents/Implmenting%20Regulations%20of%20the%20VAT%20Law_EN.pdf"
+            },
+            {
+              "title": "ZATCA: Guideline on imports and exports under VAT",
+              "url": "https://zatca.gov.sa/en/HelpCenter/guidelines/Documents/Guideline-on-Imports-and-Exports-under-VAT-Provision.pdf"
             }
           ],
           "unit": "percent",
           "value": "15",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "serviceChargeDefault": {
           "effective": "2026-01-01",
@@ -8146,7 +8563,7 @@
           ],
           "unit": "percent",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxOnServiceCharge": {
           "effective": "2020-07-01",
@@ -8158,7 +8575,7 @@
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRate": {
           "effective": "2020-07-01",
@@ -8167,11 +8584,15 @@
             {
               "title": "Zakat, Tax and Customs Authority: VAT",
               "url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/default.aspx"
+            },
+            {
+              "title": "ZATCA: Guideline on imports and exports under VAT",
+              "url": "https://zatca.gov.sa/en/HelpCenter/guidelines/Documents/Guideline-on-Imports-and-Exports-under-VAT-Provision.pdf"
             }
           ],
           "unit": "percent",
           "value": "15",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRegistrationThreshold": {
           "effective": "2018-01-01",
@@ -8180,13 +8601,17 @@
             {
               "title": "Zakat, Tax and Customs Authority: VAT",
               "url": "https://zatca.gov.sa/en/RulesRegulations/Taxes/Pages/default.aspx"
+            },
+            {
+              "title": "ZATCA: Guideline on imports and exports under VAT",
+              "url": "https://zatca.gov.sa/en/HelpCenter/guidelines/Documents/Guideline-on-Imports-and-Exports-under-VAT-Provision.pdf"
             }
           ],
           "unit": "currency",
           "value": {
             "amount": "375000"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipDefault": {
           "effective": "2026-01-01",
@@ -8197,7 +8622,7 @@
           ],
           "unit": "percent",
           "value": "10",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipOnPreTax": {
           "effective": "2026-01-01",
@@ -8209,7 +8634,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipPresets": {
           "effective": "2026-01-01",
@@ -8226,7 +8651,7 @@
             "10",
             "15"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         }
       }
     },
@@ -8284,7 +8709,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "cashRounding": {
           "effective": "2026-01-01",
@@ -8299,7 +8724,7 @@
             "mode": "optional",
             "step": "0.05"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.apps": {
           "effective": "2026-09-30",
@@ -8354,7 +8779,7 @@
             "rateStatus": "notPublished",
             "sourceName": "foodpanda Singapore partner page"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.grabFood": {
           "effective": "2026-09-30",
@@ -8401,7 +8826,7 @@
             "rateStatus": "official",
             "sourceName": "Grab Singapore merchant page"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.taxes": {
           "effective": "2026-09-30",
@@ -8424,7 +8849,7 @@
             "feeTaxName": "GST",
             "feeTaxPercent": "9"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "denominations": {
           "effective": "2026-01-01",
@@ -8433,6 +8858,14 @@
             {
               "title": "Monetary Authority of Singapore: currency",
               "url": "https://www.mas.gov.sg/currency"
+            },
+            {
+              "title": "MAS: Circulation Currency: Coins",
+              "url": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-coins"
+            },
+            {
+              "title": "MAS - Circulation Currency: Notes",
+              "url": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes"
             }
           ],
           "unit": "currency",
@@ -8453,21 +8886,40 @@
               "2"
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
-        "electricityRate": {
-          "effective": "2026-09-01",
-          "notes": "Typical rate per kWh used as the starting value; users enter their own rate from their bill.",
-          "sources": [
-            {
-              "title": "SP Group: tariff information",
-              "url": "https://www.spgroup.com.sg/our-services/utilities/tariff-information"
-            }
-          ],
-          "unit": "currencyPerKWh",
-          "value": "0.32",
-          "verified": "2026-09-30"
-        },
+        "electricityRate": [
+          {
+            "effective": "2026-09-01",
+            "notes": "Typical rate per kWh used as the starting value; users enter their own rate from their bill.",
+            "sources": [
+              {
+                "title": "SP Group: tariff information",
+                "url": "https://www.spgroup.com.sg/our-services/utilities/tariff-information"
+              }
+            ],
+            "unit": "currencyPerKWh",
+            "value": "0.32",
+            "verified": "2026-11-01"
+          },
+          {
+            "effective": "2026-10-01",
+            "notes": "SP Group tariff for 1 Oct-31 Dec 2026 is 28.59 c/kWh before GST (31.16 c with GST), down 3.32 c from 31.91 c (Q3; the old 0.32 matches Q3 before GST).",
+            "sources": [
+              {
+                "title": "SP Group: tariff information (Q4 2026: 28.59 c/kWh w/o GST)",
+                "url": "https://www.spgroup.com.sg/our-services/utilities/tariff-information"
+              },
+              {
+                "title": "SP Group media release: Electricity Tariff Revision for the Period 1 October to 31 December 2026 (30 Sep 2026; -3.32 c/kWh)",
+                "url": "https://www.spgroup.com.sg/about-us/media-resources/news-and-media-releases/Electricity-Tariff-Revision-for-the-Period-1-July-to-30-September-2027"
+              }
+            ],
+            "unit": "currencyPerKWh",
+            "value": "0.29",
+            "verified": "2026-11-01"
+          }
+        ],
         "opening.permits": {
           "effective": "2026-09-30",
           "notes": "SFA food shop licence S$195 a year. Liquor Class 1A S$880 a year (06:00–23:59), Class 1B S$660 (06:00–22:00). ACRA S$15 name application + S$300 company registration. URA change-of-use fees not verified.",
@@ -8526,7 +8978,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "overtime": {
           "effective": "2019-04-01",
@@ -8547,7 +8999,7 @@
             },
             "weeklyHours": "44"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "overtimeCoverage": {
           "effective": "2019-04-01",
@@ -8563,7 +9015,7 @@
             "nonWorkmanMonthlySalaryCap": "2600",
             "workmanMonthlySalaryCap": "4500"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.dbsMax": {
           "effective": "2026-09-30",
@@ -8584,7 +9036,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.grabPay": {
           "effective": "2026-09-30",
@@ -8609,7 +9061,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.stripe": {
           "effective": "2026-09-30",
@@ -8637,7 +9089,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.providers": {
           "effective": "2026-09-30",
@@ -8694,7 +9146,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.surcharge": {
           "effective": "2026-04-18",
@@ -8714,7 +9166,7 @@
             "status": "banned",
             "summary": "Visa's rules forbid card surcharges in Singapore, and PayNow surcharges are banned."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.dbsMax": {
           "effective": "2026-09-30",
@@ -8738,7 +9190,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.nets": {
           "effective": "2026-09-30",
@@ -8755,7 +9207,7 @@
             "prices": {},
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.ocbc": {
           "effective": "2026-09-30",
@@ -8801,7 +9253,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "pricesIncludeTax": {
           "effective": "2024-01-01",
@@ -8810,11 +9262,15 @@
             {
               "title": "IRAS: Goods and Services Tax (GST)",
               "url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)"
+            },
+            {
+              "title": "IRAS: GST-registered businesses must display GST-inclusive prices (F&B with service charge may show ++ prices)",
+              "url": "https://www.iras.gov.sg/news-events/newsroom/gst-registered-businesses-must-display-gst-inclusive-prices2"
             }
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.gtoHigherOfAllowed": {
           "effective": "2024-02-01",
@@ -8831,7 +9287,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.moveIn": {
           "effective": "2024-02-01",
@@ -8852,7 +9308,7 @@
             "depositCapMaxSqFt": "5000",
             "depositMonths": "3"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.taxOnRent": {
           "effective": "2024-01-01",
@@ -8865,7 +9321,7 @@
           ],
           "unit": "percent",
           "value": "9",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "serviceChargeDefault": {
           "effective": "2026-01-01",
@@ -8876,7 +9332,7 @@
           ],
           "unit": "percent",
           "value": "10",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxOnServiceCharge": {
           "effective": "2024-01-01",
@@ -8885,11 +9341,15 @@
             {
               "title": "IRAS: Goods and Services Tax (GST)",
               "url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)"
+            },
+            {
+              "title": "IRAS: GST-registered businesses must display GST-inclusive prices (F&B with service charge may show ++ prices)",
+              "url": "https://www.iras.gov.sg/news-events/newsroom/gst-registered-businesses-must-display-gst-inclusive-prices2"
             }
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRate": {
           "effective": "2024-01-01",
@@ -8902,7 +9362,7 @@
           ],
           "unit": "percent",
           "value": "9",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRegistrationThreshold": {
           "effective": "1994-04-01",
@@ -8911,13 +9371,17 @@
             {
               "title": "IRAS: Do I need to register for GST",
               "url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst/registration-overview/do-i-need-to-register-for-gst"
+            },
+            {
+              "title": "IRAS: Do I need to register for GST",
+              "url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/do-i-need-to-register-for-gst"
             }
           ],
           "unit": "currency",
           "value": {
             "amount": "1000000"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipDefault": {
           "effective": "2026-01-01",
@@ -8928,7 +9392,7 @@
           ],
           "unit": "percent",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipOnPreTax": {
           "effective": "2026-01-01",
@@ -8940,7 +9404,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipPresets": {
           "effective": "2026-01-01",
@@ -8956,7 +9420,7 @@
             "5",
             "10"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         }
       }
     },
@@ -9008,7 +9472,7 @@
               "22"
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "bar.kegs": {
           "effective": "2026-09-30",
@@ -9052,7 +9516,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "bar.measures": {
           "effective": "2026-09-30",
@@ -9105,7 +9569,7 @@
             "spiritDefault": "1.5",
             "unit": "usFlOz"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "cardFees.defaults": {
           "effective": "2026-01-01",
@@ -9120,7 +9584,7 @@
             "perTransaction": "0.15",
             "processorRatePercent": "2.6"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "cardSurcharge.caps": {
           "effective": "2023-04-15",
@@ -9159,7 +9623,7 @@
             "standardPercent": "3",
             "visaPercent": "3"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "cashRounding": {
           "effective": "2026-01-01",
@@ -9174,7 +9638,7 @@
             "mode": "optional",
             "step": "0.05"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.apps": {
           "effective": "2026-09-30",
@@ -9193,7 +9657,7 @@
             "instacart",
             "grubhub"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.cityCaps": {
           "effective": "2025-06-30",
@@ -9260,7 +9724,7 @@
               "note": "Minneapolis caps delivery at 15% unless the app offers a delivery plan at 15% or less. You can choose to pay more for ads and other extras."
             }
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.doorDash": {
           "effective": "2026-09-30",
@@ -9395,7 +9859,7 @@
             "rateStatus": "official",
             "sourceName": "Grubhub pricing page (April 2026)"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.instacart": {
           "effective": "2026-03-11",
@@ -9412,6 +9876,10 @@
             {
               "title": "Maplebear (Instacart) FY2025 Form 10-K",
               "url": "https://www.sec.gov/Archives/edgar/data/1579091/000157909126000018/cart-20251231.htm"
+            },
+            {
+              "title": "Uber Eats Marketplace Fee Changes (US, effective 11 Mar 2026)",
+              "url": "https://help.uber.com/merchants-and-restaurants/article/uber-eats-marketplace-fee-changes--?nodeId=2cec9c6f-a7b8-47b5-8cc8-07c8a2c24569"
             }
           ],
           "unit": "table",
@@ -9453,7 +9921,7 @@
             "rateStatus": "official",
             "sourceName": "Uber Eats Instacart partnership FAQ"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.ownerCom": {
           "effective": "2026-09-30",
@@ -9512,7 +9980,7 @@
             "rateStatus": "official",
             "sourceName": "Owner.com pricing page and help centre"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.postmates": {
           "effective": "2026-03-11",
@@ -9583,7 +10051,7 @@
             "rateStatus": "official",
             "sourceName": "Uber Eats US merchant terms"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.taxes": {
           "effective": "2026-09-30",
@@ -9601,7 +10069,7 @@
             "feeTaxClaimable": false,
             "feeTaxName": "Sales tax"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.uberEats": {
           "effective": "2026-03-11",
@@ -9672,7 +10140,7 @@
             "rateStatus": "official",
             "sourceName": "Uber Eats US pricing page and merchant terms"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "denominations": {
           "effective": "2026-01-01",
@@ -9681,6 +10149,18 @@
             {
               "title": "U.S. Mint and Bureau of Engraving and Printing",
               "url": "https://www.usmint.gov/"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://home.treasury.gov/news/featured-stories/penny-production-cessation-faqs"
+            },
+            {
+              "title": "U.S. Currency Education Program: denominations",
+              "url": "https://www.uscurrency.gov/denominations"
+            },
+            {
+              "title": "31 U.S.C. 5112 (coin denominations)",
+              "url": "https://www.law.cornell.edu/uscode/text/31/5112"
             }
           ],
           "unit": "currency",
@@ -9703,7 +10183,7 @@
               "1"
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "electricityRate": {
           "effective": "2026-09-01",
@@ -9712,11 +10192,15 @@
             {
               "title": "U.S. Energy Information Administration: average retail price of electricity",
               "url": "https://www.eia.gov/electricity/monthly/"
+            },
+            {
+              "title": "Official page (moved or alternative)",
+              "url": "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
             }
           ],
           "unit": "currencyPerKWh",
           "value": "0.14",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "minimumWage.federal": {
           "effective": "2009-07-24",
@@ -9729,7 +10213,7 @@
           ],
           "unit": "currencyPerHour",
           "value": "7.25",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "opening.costPerSeat": {
           "effective": "2018-11-15",
@@ -9751,7 +10235,7 @@
             "nonRestaurantRemodel": "5073",
             "restaurantRemodel": "2285"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "opening.permits": {
           "effective": "2026-09-30",
@@ -9818,7 +10302,7 @@
             ],
             "note": "The IRS employer number (EIN) is free; other fees vary by state, county and city."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "overtime": {
           "effective": "1940-10-24",
@@ -9839,7 +10323,7 @@
             },
             "weeklyHours": "40"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.paypal": {
           "effective": "2026-09-01",
@@ -9865,7 +10349,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.square": {
           "effective": "2025-10-06",
@@ -9895,7 +10379,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.online.stripe": {
           "effective": "2026-09-30",
@@ -9921,7 +10405,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.providers": {
           "effective": "2026-09-30",
@@ -9973,7 +10457,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.surcharge": {
           "effective": "2023-04-15",
@@ -9993,7 +10477,7 @@
             "status": "limited",
             "summary": "Credit cards only, up to {cap} and never more than your cost; some states ban or limit surcharges."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.clover": {
           "effective": "2026-09-30",
@@ -10046,7 +10530,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.square": {
           "effective": "2025-10-06",
@@ -10076,7 +10560,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.squarePlus": {
           "effective": "2025-10-06",
@@ -10107,7 +10591,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.squarePremium": {
           "effective": "2025-10-06",
@@ -10138,7 +10622,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.stripe": {
           "effective": "2026-09-30",
@@ -10164,7 +10648,7 @@
             },
             "tax": "notStated"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.terminal.toast": {
           "effective": "2026-08-20",
@@ -10192,7 +10676,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.moveIn": {
           "effective": "2026-09-01",
@@ -10211,7 +10695,7 @@
             "advanceMonths": "1",
             "depositMonths": "1"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.occupancyBenchmarks": {
           "effective": "2025-09-03",
@@ -10232,7 +10716,7 @@
             "fullServiceMedianPercent": "5.7",
             "limitedServiceMedianPercent": "5.2"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.percentageRentExample": {
           "effective": "2026-06-01",
@@ -10249,7 +10733,7 @@
           ],
           "unit": "percent",
           "value": "6",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.taxOnRent": {
           "effective": "2026-01-01",
@@ -10266,7 +10750,7 @@
           ],
           "unit": "percent",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.taxOnRent.florida": {
           "effective": "2025-10-01",
@@ -10279,7 +10763,7 @@
           ],
           "unit": "percent",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.taxOnRent.phoenix": {
           "effective": "2026-01-01",
@@ -10292,7 +10776,7 @@
           ],
           "unit": "percent",
           "value": "3.4",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "serviceChargeDefault": {
           "effective": "2026-01-01",
@@ -10303,7 +10787,7 @@
           ],
           "unit": "percent",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxOnServiceCharge": {
           "effective": "2026-01-01",
@@ -10314,7 +10798,7 @@
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRate": {
           "effective": "2026-01-01",
@@ -10326,7 +10810,7 @@
           ],
           "unit": "percent",
           "value": "8",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipDefault": {
           "effective": "2026-01-01",
@@ -10337,7 +10821,7 @@
           ],
           "unit": "percent",
           "value": "20",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipOnPreTax": {
           "effective": "2026-01-01",
@@ -10349,7 +10833,7 @@
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipPresets": {
           "effective": "2026-01-01",
@@ -10367,7 +10851,7 @@
             "22",
             "25"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tippedWage": {
           "effective": "2009-07-24",
@@ -10383,7 +10867,7 @@
             "cashWage": "2.13",
             "maxTipCredit": "5.12"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tippedWage.noTipCreditStates": {
           "effective": "2026-01-01",
@@ -10405,7 +10889,7 @@
             "WA",
             "Guam"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         }
       }
     },
@@ -10460,7 +10944,7 @@
             "pourCostBasis": "Many bars aim for 18–24% overall: spirits about 15–20%, draught beer 20–25%, wine by the glass 26–32%.",
             "pourCostTargetPercent": "20"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "bar.kegs": {
           "effective": "2026-09-30",
@@ -10491,7 +10975,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "bar.measures": {
           "effective": "2026-09-30",
@@ -10542,7 +11026,7 @@
             "spiritDefault": "30",
             "unit": "ml"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "cashRounding": {
           "effective": "2026-01-01",
@@ -10557,7 +11041,7 @@
             "mode": "none",
             "step": "0"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.apps": {
           "effective": "2026-09-30",
@@ -10569,7 +11053,7 @@
           ],
           "unit": "list",
           "value": [],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "delivery.taxes": {
           "effective": "2026-09-30",
@@ -10585,7 +11069,7 @@
             "feeTaxClaimable": true,
             "feeTaxName": "Tax"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "denominations": {
           "effective": "2026-01-01",
@@ -10613,7 +11097,7 @@
               "5"
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "denominationsByCurrency": {
           "effective": "2026-01-01",
@@ -10889,7 +11373,7 @@
               ]
             }
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "electricityRate": {
           "effective": "2026-09-01",
@@ -10901,7 +11385,7 @@
           ],
           "unit": "currencyPerKWh",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "kitchen.pans": {
           "effective": "2026-09-30",
@@ -11120,7 +11604,7 @@
             "depositPercent": "50",
             "targetCostPercent": "30"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "manager.forecast": {
           "effective": "2026-09-30",
@@ -11146,7 +11630,7 @@
               "10"
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "manager.lossCheck": {
           "effective": "2026-09-30",
@@ -11170,7 +11654,7 @@
             "producePercent": "5",
             "proteinPercent": "2"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "manager.reservations": {
           "effective": "2026-09-30",
@@ -11199,7 +11683,7 @@
             "seatsFilledPercent": "80",
             "slotMinutes": "15"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "manager.staffing": {
           "effective": "2026-09-30",
@@ -11246,7 +11730,7 @@
               "servers": "30"
             }
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "manager.tipOut": {
           "effective": "2026-09-30",
@@ -11302,7 +11786,7 @@
             "fineDiningMinutes": "120",
             "quickServiceMinutes": "30"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "manager.waitQuote": {
           "effective": "2026-09-30",
@@ -11319,7 +11803,7 @@
             "padMinutes": "5",
             "roundToMinutes": "5"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "opening.contingency": {
           "effective": "2026-09-30",
@@ -11339,7 +11823,7 @@
             "basis": "common advice in opening-cost guides, not a survey",
             "setupPercent": "10"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "opening.guide": {
           "effective": "2026-09-30",
@@ -11915,7 +12399,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "opening.reserve": {
           "effective": "2026-09-30",
@@ -11936,7 +12420,7 @@
             "minimumMonths": "3",
             "suggestedMonths": "6"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "overtime": {
           "effective": "2026-01-01",
@@ -11956,7 +12440,7 @@
             },
             "weeklyHours": "40"
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.providers": {
           "effective": "2026-09-30",
@@ -11984,7 +12468,7 @@
               }
             ]
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "payments.surcharge": {
           "effective": "2026-09-30",
@@ -11999,7 +12483,7 @@
             "status": "varies",
             "summary": "Surcharge rules vary by country; check local law and your card provider's terms before adding one."
           },
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "pricesIncludeTax": {
           "effective": "2026-01-01",
@@ -12010,7 +12494,7 @@
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "rent.taxOnRent": {
           "effective": "2026-01-01",
@@ -12022,7 +12506,7 @@
           ],
           "unit": "percent",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "serviceChargeDefault": {
           "effective": "2026-01-01",
@@ -12033,7 +12517,7 @@
           ],
           "unit": "percent",
           "value": "0",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxOnServiceCharge": {
           "effective": "2026-01-01",
@@ -12044,7 +12528,7 @@
           ],
           "unit": "boolean",
           "value": true,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "taxRate": {
           "effective": "2026-01-01",
@@ -12056,7 +12540,7 @@
           ],
           "unit": "percent",
           "value": "10",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipDefault": {
           "effective": "2026-01-01",
@@ -12067,7 +12551,7 @@
           ],
           "unit": "percent",
           "value": "10",
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipOnPreTax": {
           "effective": "2026-01-01",
@@ -12079,7 +12563,7 @@
           ],
           "unit": "boolean",
           "value": false,
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         },
         "tipPresets": {
           "effective": "2026-01-01",
@@ -12097,14 +12581,14 @@
             "15",
             "20"
           ],
-          "verified": "2026-09-30"
+          "verified": "2026-11-01"
         }
       }
     }
   },
   "disclaimer": "Estimates only; not tax or legal advice. Every value lists its official source, effective date and last-verified date.",
-  "publishedAt": "2026-11-05T12:00:00Z",
-  "rulesVersion": "2026.11.05",
+  "publishedAt": "2026-11-10T12:00:00Z",
+  "rulesVersion": "2026.11.10",
   "schemaVersion": 1,
   "validation": {
     "maxRelativeChange": {
